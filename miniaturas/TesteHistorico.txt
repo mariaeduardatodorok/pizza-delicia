@@ -1,5 +1,7 @@
 Exmplo de historico de versionamento
 
  -  Inserindo linha inicial (commit 1)
-
- 
+ -  Inserindo novo linha (commit 2)
+ -  Inserindo novo linha (commit 3)
+ -  Inserindo novo linha (commit 4)
+ -  Inserindo novo linha (commit 5)
