@@ -6,7 +6,7 @@ Este repositorio serve apenas como teste para exercícios de utilização do git
 conjiunto co gitHub.
 
 ## Prints de telas
-![Print da tela inicial]()
+![Print da tela inicial]([miniatuaras](miniaturas))
 
 ## Autores 
 
