@@ -1,10 +1,10 @@
-#Site Pizza Deícia
+# Site Pizza Deícia
 
-##Sobre o site
+## Sobre o site
 
 Este repositorio serve apenas como teste para exercícios de utilização do git em 
 conjiunto co gitHub.
 
-##Autores 
+## Autores 
 
 Desenvolvido pela Zuleika
